@@ -2,7 +2,7 @@
 
 ### 🎓 About Me
 * **Branch:**  Computer Science(AIML)
-* **Year:** 1st Year
+* **Year:** 2025-2029
 * **Current Focus:** Learning Python and building simple, clean projects.
 
 ---
