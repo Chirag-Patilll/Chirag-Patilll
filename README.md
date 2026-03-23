@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chirag Patil 👋
 
-<!--
-**Chirag-Patilll/Chirag-Patilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+* **Branch:**  Computer Science(AIML)
+* **Year:** 1st Year
+* **Current Focus:** Learning Python and building simple, clean projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Goal
+I hope to learn how to write efficient code and build helpful tools that I can share with the developer community on GitHub.
+
+---
+
+### 🛠 My Tools
+* **Language:** Python 🐍
+* **Platform:** GitHub 💻
+* **Focus:** Data Preprocessing & Problem Solving
+
+---
+
+*“Coding is a journey, and I’m just getting started!”*
